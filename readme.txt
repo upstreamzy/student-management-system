@@ -1,8 +1,1 @@
-Git is version control system.
-Git is free software.
-Git is a free software.
-Git is distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage;
-Git tracks change.
-Git not tracks file of contents.
+This is a c program language curriculum design.
